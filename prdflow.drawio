@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T00:52:59.328Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="16.4.3" etag="K8ULtNtOhLzM-UwMqel8" type="github"><diagram id="yScUm3XwA9atd076UaGD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-23T01:23:10.193Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="l_Hc6eM3_9X0LMR7pxM5" version="16.4.3" type="github">
+  <diagram id="yScUm3XwA9atd076UaGD" name="Page-1">
+    <mxGraphModel dx="782" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qkVJY-li9r7E9yD3b_dM-1" value="生产环境&lt;br style=&quot;font-size: 14px;&quot;&gt;流水线配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qkVJY-li9r7E9yD3b_dM-2" value="项目依赖&lt;br&gt;文件配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qkVJY-li9r7E9yD3b_dM-3" value="生产环境&lt;br&gt;定时任务配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
